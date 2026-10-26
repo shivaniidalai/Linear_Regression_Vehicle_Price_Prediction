@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+.DS_Store
+*.csv
+*.zip
+*.rar
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.log
